@@ -1,0 +1,2 @@
+We are learning git diff command
+The file is added to test the command

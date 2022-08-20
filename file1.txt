@@ -1,1 +1,4 @@
-first file
+Hello World from git
+Git is better with GitHub
+Learn Git, and AWS to get a great job
+this is 4th line
